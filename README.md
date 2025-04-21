@@ -1,13 +1,4 @@
 # MFERL
-
-
-好的！我可以帮你把 `MFERL` 的 `README.md` 写成和上面的模板风格一致的版本。下面是一个标准、清晰又专业的 `README.md` 示例模板，已根据你的项目名称 `MFERL` 和常见结构调整整理好 👇
-
----
-
-```markdown
-# MFERL
-
 MFERL is a model designed to predict associations between circRNAs and diseases based on **multi-feature enhanced representation learning**.
 
 ## License
